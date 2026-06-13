@@ -1,7 +1,0 @@
-Segment,Couleur,Description,Priorite,Nb_Clients,CA_Moyen,CA_Total,Recence_Moy,Frequence_Moy,Pct_CA
-Champions,#1a6fad,"Achat récent, fréquent, montant élevé",1,953,6054.82,5770243.55,33.17,11.12,64.75
-Clients Fidèles,#2ca25f,"Bonne fréquence et montant, récence correcte",2,994,1503.49,1494469.37,54.1,3.74,16.77
-Clients à Risque,#fe9929,Anciens bons clients qui n'achètent plus,3,656,1248.91,819287.25,171.79,3.41,9.19
-Nouveaux Clients,#74c476,"Premier achat récent, potentiel à développer",4,312,442.08,137928.73,38.76,1.24,1.55
-Clients Moyens,#9ecae1,Profil intermédiaire sans signal fort,5,761,491.36,373927.85,108.31,1.16,4.2
-Clients Perdus,#fc8d59,"Très longue inactivité, réactivation difficile",6,662,476.66,315551.15,298.88,1.06,3.54
